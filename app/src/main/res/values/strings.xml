@@ -1,4 +1,22 @@
 <resources>
     <string name="app_name">LocalBooks</string>
+    <string name="descripcion">Lirerias cerca de ti</string>
+    <string name="titulo">LocalBooks</string>
+    <string name="nombre">Nombre</string>
+    <string name="pass">Password</string>
+    <string name="email">Email</string>
+    <string name="iniciar">Iniciar Sesion</string>
+    <string name="noRegistrado">No estas registrado?</string>"
+    <string name="registrar">Crear Cuenta</string>
+    <string name="registrarse">Registrarse</string>
 
+    <string name="nombreEvento">Eventos</string>
+    <string name="loremIpsum">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Morbi lacinia ipsum mauris, a
+        condimentum enim iaculis at. Cras magna justo, malesuada at maximus quis, auctor eu libero.
+        Suspendisse vitae arcu quam. Aenean aliquet suscipit scelerisque. Vestibulum nec blandit ipsum,
+        quis faucibus dui. Pellentesque neque dui, fringilla sit amet elementum in, euismod at elit.
+        Vestibulum at neque vitae lacus ultricies ultricies ac at elit</string>"
+    <string name="recomendacion">Las librerias Recomiendan</string>
+    <string name="tituloL">Titulo</string>
 </resources>
